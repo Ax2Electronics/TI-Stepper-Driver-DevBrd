@@ -1,0 +1,13 @@
+Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","0.1uf","CAP CER 0.1uF 10V X7R 0603","C1, C4","2","","","","","","",""
+"","1uf","CAP CER 1uF 0603 16V X7R","C2, C5","2","","","","","","",""
+"","1uf","CAP CER 1uF 10V X7R 0603","C3","1","","","","","","",""
+"","100uf","CAP ALUM POLY 100UF 20% 63V SMD","C6","1","","","","","","",""
+"","10000pf","CAP CER 10000PF 63V X7R 0603","C7, C9, C10","3","","","","","","",""
+"","DRV8462 Bipolar stepper driver","65-V, 10-A, DUAL H-BRIDGE STEPPER DRIVER","IC1","1","","","","","","",""
+"","Header 8 PIN","Header 8 PIN","J1","1","","","","","","",""
+"","Header 4 PIN","Header 4 PIN","J2","1","","","","","","",""
+"","Mounting Hole","Mounting Hole 3mm","MH1, MH2","2","","","","","","",""
+"","Terminal Block","Terminal block 90 deg 5mm 2PIN","P1, P2, P3","3","","","","","","",""
+"","10Kohm","RES 10K OHM 1% 1/10W 0603","R1, R2","2","","","","","","",""
